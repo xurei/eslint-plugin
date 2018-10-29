@@ -1,6 +1,6 @@
 {
   "name": "eslint-plugin-xurei",
-  "version": "0.0.0",
+  "version": "1.0.0",
   "description": "Some eslint rules for my own code style",
   "keywords": [
     "eslint",
