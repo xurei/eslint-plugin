@@ -1,2 +1,3 @@
 *.iml
 /lab
+node_modules/
